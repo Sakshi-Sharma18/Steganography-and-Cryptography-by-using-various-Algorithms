@@ -1,4 +1,4 @@
-# Steganography and Cryptuography by using various Algorithms
+# Steganography and Cryptography by using various Algorithms
 Data hiding is an important task that has to be taken into account to maintain the integrity and 
 security of the information to be transmitted in addition to avoid the tampering of the data. An 
 adversary is not just modifying someone else’s data but to use for one’s own benefits. Data hiding task 
